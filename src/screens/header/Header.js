@@ -25,10 +25,8 @@ function Header() {
         ]}
         typeSpeed={40}
         backSpeed={50}
-        attr="placeholder"
         loop
       >
-        <input type="text" />
       </ReactTyped>
     </div>
   )

@@ -4,21 +4,20 @@
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    border: 1.5px solid rgb(11, 173, 103);
 }
 
 .about__container img {
     border-radius: 50%;
     border: 1.5px solid #f4f3fa;
     margin-bottom: 1rem;
-    margin-top: 10rem;
-    max-width: 200px;
+    margin-top: 20%;
+    max-width: 350px;
 }
 
 .about__text {
     max-width: 600px;
+    /*border: 1.5px solid rgb(19, 173, 211);*/
     color: white;
-    border: 1.5px solid rgb(173, 11, 130);
 }
 
 @media only screen and (max-width: 700px) {
