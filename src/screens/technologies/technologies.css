@@ -1,25 +1,28 @@
 .technologies__container {
-    background-color: var(--light-color);
+    margin-top: 25%;
+    margin-bottom: 0%;    
+    background-color: grey;
     color: var(--nav-color);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    padding: 3rem;
+    padding: 13rem;
   }
   
   .tech__cards__container {
+    margin-top: 0%;
+    margin-bottom: 0%;        
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
     max-width: 1100px;
-    margin: 1rem 0;
   }
   
   .tech__card {
     width: 15rem;
     height: 10rem;
-    background-color: var(--font-color);
+    background-color: yellowgreen;
     margin: 10px;
     display: flex;
     flex-direction: column;

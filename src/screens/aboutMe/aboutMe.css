@@ -1,5 +1,7 @@
 .about__container {
-    margin: 3rm 0;
+    margin-top: 5%;
+    margin-bottom: -15%;  
+    background-color: Grey;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -7,17 +9,22 @@
 }
 
 .about__container img {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    max-width: 500px;    
     border-radius: 50%;
     border: 1.5px solid #f4f3fa;
-    margin-bottom: 1rem;
-    margin-top: 20%;
-    max-width: 350px;
 }
 
 .about__text {
-    max-width: 600px;
-    /*border: 1.5px solid rgb(19, 173, 211);*/
+    margin-top: 20%;
+    margin-bottom: 0%;
+    max-width: 800px;
+    text-align: center;
+    background-color: Grey;
     color: white;
+    font-size: medium;
+    /*border: 1.5px solid rgb(19, 173, 211);*/
 }
 
 @media only screen and (max-width: 700px) {
@@ -32,3 +39,18 @@
     }
 }
 
+.container {
+    display: flex;
+    height: 100vh; /* Set the container height to fill the viewport */
+  }
+
+  .leftpane, .middlepane, .rightpane {
+    flex: 1; /* Distribute available space evenly among the three sections */
+    padding: 10px;
+  }
+
+  .section {
+    height: 33.33vh; /* Divide the viewport height into three equal parts */
+    border: 1px solid #ccc;
+    padding: 10px;
+  }

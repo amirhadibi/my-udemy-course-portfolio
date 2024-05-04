@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.11738882.css",
-    "main.js": "/static/js/main.de7d836d.js",
+    "main.css": "/static/css/main.c604da96.css",
+    "main.js": "/static/js/main.fd50f27f.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "static/media/Me.png": "/static/media/Me.fa838c586f06e0460f88.png",
+    "static/media/myPTM-Documents.gif": "/static/media/myPTM-Documents.0ee6d93863611b0eae58.gif",
+    "static/media/Eifel.JPG": "/static/media/Eifel.f1ce99c5d3088b3843f0.JPG",
+    "static/media/myPTM-Properties.gif": "/static/media/myPTM-Properties.18eab4aa8a8ba108c74a.gif",
+    "static/media/myPTM-Home.gif": "/static/media/myPTM-Home.e26ff7f1e3c5dfd75544.gif",
+    "static/media/myPTM-Details.gif": "/static/media/myPTM-Details.f33bed9bdeb8755ac462.gif",
     "index.html": "/index.html",
-    "main.11738882.css.map": "/static/css/main.11738882.css.map",
-    "main.de7d836d.js.map": "/static/js/main.de7d836d.js.map",
+    "main.c604da96.css.map": "/static/css/main.c604da96.css.map",
+    "main.fd50f27f.js.map": "/static/js/main.fd50f27f.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11738882.css",
-    "static/js/main.de7d836d.js"
+    "static/css/main.c604da96.css",
+    "static/js/main.fd50f27f.js"
   ]
 }

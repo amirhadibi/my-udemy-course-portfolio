@@ -9,18 +9,14 @@ function Header() {
       <ReactTyped
         strings={[
           " ",
-          "A Software Engineer",
-          "Also known as ",
+          "Software Engineer",
           "Front-end Developer",
           "Back-end Developer",
           "Full Stack Developer",
-          "Who loves working with",
           "AWS Lambda, S3, RDS",        
-          "More importatntly!",
-          "A Team Player",
+          "Team Player",
           "Strong Decision Maker",
-          "and a Self-starter",
-          " ",
+          "Self-starter",
           " ",
         ]}
         typeSpeed={40}

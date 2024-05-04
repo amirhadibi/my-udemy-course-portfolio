@@ -10,10 +10,11 @@ export const techs = [
     {
         name: 'Node.js',
         iconName: 'nodejs'
-    },    {
-      name: 'Javascript',
-      iconName: 'javascript'
-    },
+    },    
+
+
+
+
     {
       name: 'CSS3',
       iconName: 'css3'
