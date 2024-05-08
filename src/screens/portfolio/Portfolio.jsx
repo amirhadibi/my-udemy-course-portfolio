@@ -65,7 +65,7 @@ function Portfolio() {
     <div className="portfolio__main__container" id="portfolio">
       <h1>PORTFOLIO</h1>
       <p>This is my LinkedIn page  
-        <a href="https://www.linkedin.com/in/amir-h-adibi/" target="_blank" rel="noreferrer">  myLinkedInProfile</a>
+        <a href="https://www.linkedin.com/in/amir-h-adibi/" target="_blank" rel="noreferrer"> myLinkedInProfile</a>
       </p>
       <Container fluid="lg" style={{ padding: '2rem 0' }}>
         <Row>

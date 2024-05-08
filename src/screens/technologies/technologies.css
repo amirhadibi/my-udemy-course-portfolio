@@ -1,10 +1,10 @@
 .technologies__container {
-    margin-top: 25%;
+    margin-top: 15%;
     margin-bottom: 0%;    
     background-color: grey;
     color: var(--nav-color);
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     padding: 13rem;
   }

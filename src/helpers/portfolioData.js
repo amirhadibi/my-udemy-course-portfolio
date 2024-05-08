@@ -2,6 +2,7 @@ import ptmHome from '../images/projectsicon/myPTM-Home.gif';
 import ptmDocuments from '../images/projectsicon/myPTM-Documents.gif';
 import ptmProperties from '../images/projectsicon/myPTM-Properties.gif';
 import ptmDetails from '../images/projectsicon/myPTM-Details.gif';
+import ptmConceptMenu from '../images/projectsicon/myPTM-ConceptMenu.gif';
 
 const portfolioData = [
     {
@@ -10,7 +11,7 @@ const portfolioData = [
         link: '',
         desc: 'Serverless Single Page Applilcation',
         summary: 'A database application, which retreives data from Oracle database and displays data in various formats.',
-        tech: 'Angular, AWS Lambda, AWS API Gateways, Oracle',
+        tech: 'Angular, AWS Lambda, AWS API Gateways, Oracl',
 
     },
     {
@@ -32,9 +33,17 @@ const portfolioData = [
         image: ptmProperties,
         link: '',
         desc: 'Properties screen',
-        summary: 'A modal screen listing financial information from a database',
+        summary: 'A modal screen listing financial information from a database.',
         tech: 'Angular, AWS Lambda, AWS API Gateways, AWS S3, AWS CloudFront, Oracle',
     },
+    {
+        image: ptmConceptMenu,
+        link: '',
+        desc: 'Concept menu',
+        summary: 'Displaying a concept menu to take care of multiple tasks.',
+        tech: 'Angular, AWS Lambda, AWS API Gateways, AWS S3, AWS CloudFront, Oracle.',
+    },
+
 ]
 
 export default portfolioData;

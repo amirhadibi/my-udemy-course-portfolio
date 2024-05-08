@@ -4,7 +4,7 @@ import { ReactTyped } from "react-typed";
 
 function Header() {
   return (
-    <div className="main-info">
+    <div className="main-info" id="home">
       <h1>What am I?</h1>
       <ReactTyped
         strings={[
