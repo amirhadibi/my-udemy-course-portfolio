@@ -1,8 +1,8 @@
-import ptmHome from '../images/projectsicon/myPTM-Home.gif';
-import ptmDocuments from '../images/projectsicon/myPTM-Documents.gif';
-import ptmProperties from '../images/projectsicon/myPTM-Properties.gif';
-import ptmDetails from '../images/projectsicon/myPTM-Details.gif';
-import ptmConceptMenu from '../images/projectsicon/myPTM-ConceptMenu.gif';
+import ptmHome from '../images/portfolioSection/myPTM-Home.gif';
+import ptmDocuments from '../images/portfolioSection/myPTM-Documents.gif';
+import ptmProperties from '../images/portfolioSection/myPTM-Properties.gif';
+import ptmDetails from '../images/portfolioSection/myPTM-Details.gif';
+import ptmConceptMenu from '../images/portfolioSection/myPTM-ConceptMenu.gif';
 
 const portfolioData = [
     {
