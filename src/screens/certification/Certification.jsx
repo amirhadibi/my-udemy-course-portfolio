@@ -42,8 +42,8 @@ function Certification() {
 
   const mapped = certificationData.map((e, idx) => {
     return (
-      <Card key={idx} id="portfolio__card__container">
-        <Image className="portfolio__image"
+      <Card key={idx} id="certification__card__container">
+        <Image className="certification__image"
           onClick={() => {
             setTempData({
               image: e.image,
@@ -55,15 +55,15 @@ function Certification() {
             setModalShow(true)
           }}
           src={e.image} />
-        <div className="portfolio__click__info">&#x1F50E;&#xFE0E;</div>
+        <div className="certification__click__info">&#x1F50E;&#xFE0E;</div>
         {createModal(tempData)}
       </Card>
     )
   })
 
   return (
-    <div className="portfolio__main__container" id="portfolio">
-      <h1>PORTFOLIO</h1>
+    <div className="certification__main__container" id="certification">
+      <h1>CERTIFICATION</h1>
       <p>This is my LinkedIn page  
         <a href="https://www.linkedin.com/in/amir-h-adibi/" target="_blank" rel="noreferrer"> myLinkedInProfile</a>
       </p>
