@@ -17,7 +17,7 @@ function Certification() {
       <Modal
         show={modalShow}
         onHide={() => setModalShow(false)}
-        size="sm"
+        size="lg"
         arial-labelledby="contained-modal-title-vcenter"
         centered
       >
@@ -28,7 +28,7 @@ function Certification() {
         </Modal.Header>
         <Modal.Body>
           <p>{data.summary}</p>
-          <Image src={data.image} style={{ width: '200px' }} />
+          <Image src={data.image} style={{ width: '500px' }} />
         </Modal.Body>
         <a id="certification__modal__link" href={data.link} target="_blank" rel="noreferrer">Go to site</a>
         <Modal.Footer>
@@ -54,7 +54,7 @@ function Certification() {
             })
             setModalShow(true)
           }}
-          src={e.image} />
+          src={e.image} style={{ width: '600px' }}/>
         <div className="certification__click__info">&#x1F50E;&#xFE0E;</div>
         {createModal(tempData)}
       </Card>

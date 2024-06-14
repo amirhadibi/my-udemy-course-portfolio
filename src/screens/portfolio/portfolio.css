@@ -18,10 +18,10 @@
   }
   
   #portfolio__card__container {
-    width: 100%;
+    width: 80%;
     align-items: column;
     padding: 50px;
-    left: 0%; 
+    left: 10%; 
     top: 10%;
     background-color: Grey;
     border: none;

@@ -1,11 +1,11 @@
-import ptmHome from '../images/portfolioSection/myPTM-Home.gif';
+//import ptmHome from '../images/portfolioSection/myPTM-Home.gif';
 import ptmDocuments from '../images/portfolioSection/myPTM-Documents.gif';
 import ptmProperties from '../images/portfolioSection/myPTM-Properties.gif';
 import ptmDetails from '../images/portfolioSection/myPTM-Details.gif';
 import ptmConceptMenu from '../images/portfolioSection/myPTM-ConceptMenu.gif';
 
 const portfolioData = [
-    {
+    /*{
         image: ptmHome,
         //link: 'http://my-ptm.s3-website-us-east-1.amazonaws.com/',
         link: '',
@@ -13,7 +13,7 @@ const portfolioData = [
         summary: 'A database application, which retreives data from Oracle database and displays data in various formats.',
         tech: 'Angular, AWS Lambda, AWS API Gateways, Oracl',
 
-    },
+    },*/
     {
         image: ptmDocuments,
         link: '',

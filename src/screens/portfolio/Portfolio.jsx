@@ -28,7 +28,7 @@ function Portfolio() {
         </Modal.Header>
         <Modal.Body>
           <p>{data.summary}</p>
-          <Image src={data.image} style={{ width: '200px' }} />
+          <Image src={data.image} style={{ width: '500px' }} />
         </Modal.Body>
         <a id="portfolio__modal__link" href={data.link} target="_blank" rel="noreferrer">Go to site</a>
         <Modal.Footer>
