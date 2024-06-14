@@ -17,7 +17,7 @@ function Certification() {
       <Modal
         show={modalShow}
         onHide={() => setModalShow(false)}
-        size="lg"
+        size="sm"
         arial-labelledby="contained-modal-title-vcenter"
         centered
       >
